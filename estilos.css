@@ -662,9 +662,7 @@ label{
     .header ol{
       display: initial;
     }
-    .container{
-      display: block;
-    }
+
 
     .header a{
       display: flex;
